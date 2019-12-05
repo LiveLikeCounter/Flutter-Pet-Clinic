@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="31.996" viewBox="0 0 27 31.996">
+  <g id="Group_9" data-name="Group 9" transform="translate(-295 -55)">
+    <path id="Path_53" data-name="Path 53" d="M4186.5,123.477c1.57,1.036-16.04,0-16.04,0s1.243-5.387,1.657-7.873,2.9-7.666,7.666-7.044,4.351,8.287,4.351,8.287S4184.93,122.441,4186.5,123.477Z" transform="translate(-3873 -43)" fill="#656ed4"/>
+    <g id="bell" transform="translate(293 64)">
+      <path id="Path_16" data-name="Path 16" d="M18,8A6,6,0,0,0,6,8c0,7-3,9-3,9H21s-3-2-3-9" fill="none" stroke="#656ed4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_17" data-name="Path 17" d="M13.73,21a2,2,0,0,1-3.46,0" fill="none" stroke="#656ed4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(305 55)" fill="#f60" stroke="#fff" stroke-width="2">
+      <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+      <circle cx="8.5" cy="8.5" r="7.5" fill="none"/>
+    </g>
+    <text id="_2" data-name="2" transform="translate(311 67)" fill="#fff" font-size="9" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>

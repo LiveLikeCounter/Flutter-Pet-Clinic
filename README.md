@@ -2,13 +2,13 @@
 
 This repo contains a Flutter based app inspired by the beautiful design made by *Atul Dhone*, shared on Uplabs, see: [Uplabs Pet Clinic](https://www.uplabs.com/posts/pet-clinic).
 
-This three page-app contains small cards. Which are reusable through the whole app. If you are looking how to reuse widgets on multiple pages, defently take a look.
+This three page-app contains small cards. Which are reusable through the whole app. If you are looking how to reuse widgets on multiple pages, definitely take a look.
 
 ## Getting Started 🚀
 
 ```shell
 - Clone the repo
-- Install the dependicies
+- Install the dependencies
 - Run it
 ```
 
